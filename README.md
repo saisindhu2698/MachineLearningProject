@@ -1,0 +1,2 @@
+# MachineLearningProject
+DETECTION OF LUNG TUBERCULOSIS
